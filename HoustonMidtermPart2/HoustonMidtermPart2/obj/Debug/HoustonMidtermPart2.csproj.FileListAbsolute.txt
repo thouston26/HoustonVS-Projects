@@ -1,0 +1,10 @@
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\bin\Debug\HoustonMidtermPart2.exe.config
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\bin\Debug\HoustonMidtermPart2.exe
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\bin\Debug\HoustonMidtermPart2.pdb
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.csproj.AssemblyReference.cache
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.Form1.resources
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.Properties.Resources.resources
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.csproj.GenerateResource.cache
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.csproj.CoreCompileInputs.cache
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.exe
+C:\Users\rellh\source\repos\HoustonMidtermPart2\HoustonMidtermPart2\obj\Debug\HoustonMidtermPart2.pdb

@@ -1,0 +1,35 @@
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.AssemblyReference.cache
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Properties.Resources.resources
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.GenerateResource.cache
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.CoreCompileInputs.cache
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.exe.config
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.exe
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.pdb
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.exe
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.pdb
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Estimator.resources
+C:\Users\Josh Kerner\source\repos\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Calculator.resources
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.exe.config
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.exe
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.pdb
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.AssemblyReference.cache
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Estimator.resources
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Calculator.resources
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Properties.Resources.resources
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.GenerateResource.cache
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.CoreCompileInputs.cache
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.exe
+C:\Users\Josh Kerner\Documents\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.pdb
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.exe.config
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.exe
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\bin\Debug\Materials List Estimator.pdb
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.AssemblyReference.cache
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Estimator.resources
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Calculator.resources
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials_List_Estimator.Properties.Resources.resources
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.GenerateResource.cache
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.csproj.CoreCompileInputs.cache
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.exe
+D:\Desktop\Material Estimator\Material\Materials List Estimator\Materials List Estimator\obj\Debug\Materials List Estimator.pdb
